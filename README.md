@@ -1,10 +1,8 @@
-# Relationship Compass
+# Polyamory Compass
 
-An interactive bilingual toolkit for exploring relationship structures, consensual non-monogamy, attachment, boundaries, jealousy, agreements, and relationship readiness.
+An interactive bilingual self-reflection tool specifically for exploring polyamory: motivations, polyamory styles, autonomy, attachment, jealousy, agreements, metamour and polycule dynamics, communication, time/capacity, sexual health, conflict repair, and relationship transitions.
 
-## Structure
-
-- `index.html` — English version
-- `zh/index.html` — Chinese version with Simplified / Traditional toggle
+- `index.html` — English
+- `zh/index.html` — Chinese with Simplified / Traditional toggle
 
 Static and GitHub Pages ready. No build step required.
